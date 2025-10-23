@@ -1,0 +1,21 @@
+# Ignore secret API keys
+.env
+
+# Ignore Python virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore temporary audio and text files
+temp_recording.wav
+*.wav.txt
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Xcode user-specific files
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+build/

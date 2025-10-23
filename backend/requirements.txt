@@ -1,0 +1,6 @@
+flask
+pvporcupine
+pyaudio
+google-generativeai
+python-dotenv
+flask-cors
